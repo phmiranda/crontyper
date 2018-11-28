@@ -1,0 +1,10 @@
+{
+  "name": "crontyper",
+  "description": "sistema de temporização na digitação de usuários",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
